@@ -8,6 +8,8 @@ namespace Games
     {
         static void Main(string[] args)
         {
+            //Test
+            
             Menu menu = new();
             menu.DisplayMenu();
            
