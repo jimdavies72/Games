@@ -2,18 +2,15 @@
 
 Games currently playable:
 
-1 Hangman - Two player game.
+1) Hangman - Two player game.
 
 
 Description:
 
-An ongoing project comprising of a menu driven compendium of one and two plyer games.  
-The technologies used are C#, .Net 5.0, MS SQL Server Express and Visual Studio 2019.
+An ongoing project comprising of a menu driven compendium of one and two plyer games. The technologies used are C#, .Net 5.0, MS SQL Server Express and Visual Studio 2019.
 
 
-This is/was my 'hello world' project, to allow me to get to grips and understand the above mentioned technologies. 
-This is my very first project and so I appreciate the code is perhaps not as succinct nor as efficient as it could be,
-however I shall eneavour to improve it as my knowledge and skills grow.
+This is/was my 'hello world' project, to allow me to get to grips and understand the above mentioned technologies. This is my very first project and so I appreciate the code is perhaps not as succinct nor as efficient as it could be, however I shall eneavour to improve it as my knowledge and skills grow.
 
 The code attempts to demonstrate my understanding of the following concepts:
 
