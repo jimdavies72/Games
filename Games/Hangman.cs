@@ -1323,6 +1323,12 @@ namespace Games
 
     }
 
+    class PlayerController 
+    {
+        //Player Controller code here...
+    
+    }
+
     class Player 
     {
         int playerID;
