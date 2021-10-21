@@ -1323,6 +1323,60 @@ namespace Games
 
     }
 
+    class Player 
+    {
+        int playerID;
+        string nickname;
+        string language;
+
+        public Player(int _playerID, string _nickname, string _language) 
+        {
+            playerID = _playerID;
+            nickname = _nickname;
+            language = _language;
+        }
+
+        public int PlayerID
+        {
+            get 
+            { 
+                return playerID;
+            } 
+            set
+            {
+                playerID = value;
+            }
+
+
+
+        }
+
+        public string Nickname
+        {
+            get
+            {
+                return nickname;
+            }
+            init
+            {
+                nickname = value;
+            }
+        }
+
+        public string Language
+        {
+            get
+            {
+                return language;
+            }
+            set
+            {
+                language = value;
+            }
+        }
+
+    }
+
     class Tools 
     {
         public static bool HasLettersOrSpacesOnly(string phrase, bool includeSpaces = false) 
